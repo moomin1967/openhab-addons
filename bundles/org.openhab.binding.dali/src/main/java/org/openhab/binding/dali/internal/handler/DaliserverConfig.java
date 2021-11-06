@@ -22,5 +22,5 @@ import org.eclipse.jdt.annotation.NonNullByDefault;
 @NonNullByDefault
 public class DaliserverConfig {
     public String host = "";
-    public int port = 0;
+    public int port;
 }
